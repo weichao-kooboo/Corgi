@@ -9,9 +9,6 @@ namespace MyProject
     /// </summary>
     public class AppVersionHelper
     {
-
-
-
         /// <summary>
         /// Gets current version of the application.
         /// It's also shown in the web page.
