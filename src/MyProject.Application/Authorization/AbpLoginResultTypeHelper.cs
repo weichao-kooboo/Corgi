@@ -8,6 +8,14 @@ namespace MyProject.Authorization
 {
     public class AbpLoginResultTypeHelper : AbpServiceBase, ITransientDependency
     {
+
+
+
+
+
+
+
+
         public AbpLoginResultTypeHelper()
         {
             LocalizationSourceName = MyProjectConsts.LocalizationSourceName;
